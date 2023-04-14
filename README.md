@@ -8,7 +8,7 @@ This project aims to detect COVID-19 in X-ray images using deep learning techniq
 
 Attached The dataset used :  [COVID-19 Image Data](https://github.com/Daeels/Detection-of-COVID-19-in-X-ray-images-with-CNNs/tree/main/dataset).
 
-## Check the report and the slides for more informations 
+## Check the report for more informations 
 [Link to Report](https://github.com/Daeels/Detection-of-COVID-19-in-X-ray-images-with-CNNs/blob/main/CNN__Tuning__Covid_19.pdf)
 
 
